@@ -2,6 +2,8 @@
   <img src="assets/logo.png" width="92" alt="薪火 AI 小火苗标识" />
 </p>
 
+<p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a></p>
+
 <h1 align="center">薪火 AI｜macOS AI 创作画布</h1>
 
 <p align="center">在一张可自由缩放、平移的无限画布里，创作、管理与预览图片、视频、音频和文本。</p>
