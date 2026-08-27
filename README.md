@@ -2,16 +2,26 @@
   <img src="assets/logo.png" width="92" alt="薪火 AI 小火苗标识" />
 </p>
 
-<h1 align="center">薪火 AI Desktop Agent Canvas</h1>
+<h1 align="center">薪火 AI｜macOS AI 创作画布</h1>
 
-<p align="center">面向 macOS 的本地创作画布与媒体资产工作台。</p>
+<p align="center">把图片、视频、音频和文本放在同一张本地画布里创作、管理与预览。</p>
 
 <p align="center">
   <a href="https://github.com/240344520/xinghuoai-desktop-agent-canvas/releases/latest"><img src="https://img.shields.io/badge/下载-最新版-orange.svg" alt="下载最新版" /></a>
   <img src="https://img.shields.io/badge/platform-macOS-black.svg" alt="macOS" />
 </p>
 
-## 下载与安装
+<p align="center">
+  <img src="images/canvas-detail.png" alt="薪火 AI 的多媒体创作画布" />
+</p>
+
+## 为谁而做
+
+- 想在一处整理图片、视频、音频、文本与创作结果的创作者。
+- 需要用可视化节点串联素材、参数和 AI 创作流程的设计师、内容团队与独立开发者。
+- 希望保留本地资产管理体验，同时按需接入图片、视频或音乐生成服务的 macOS 用户。
+
+## 下载安装
 
 请前往 [Releases 下载最新版 DMG](https://github.com/240344520/xinghuoai-desktop-agent-canvas/releases/latest)：
 
@@ -19,6 +29,8 @@
 - `x64`：适用于 Intel Mac。
 
 下载后打开 DMG，将“薪火 AI”拖入“应用程序”即可。若 macOS 在首次打开时显示安全提示，请按系统指引确认来源后再继续。
+
+安装后，新建一个画布即可开始添加本地素材；图片、视频、音频等云端生成能力按你在应用中接入的服务、账户与额度提供。
 
 ## 功能概览
 
@@ -48,9 +60,9 @@
 | --- | --- |
 | ![媒体资产库](images/canvas-media-library.png) | ![媒体预览](images/media-preview.png) |
 
-## 使用说明
+## 使用说明与反馈
 
-普通用户只需下载并安装 DMG。画布浏览、资产管理和本地编辑不要求安装开发环境；云端生成及部分外部能力取决于你在应用中接入的服务、账户、额度和个人访问凭据。
+画布浏览、资产管理和本地编辑不要求安装开发环境。云端生成及部分外部能力取决于你在应用中接入的服务、账户、额度和个人访问凭据。
 
 本仓库仅提供正式发布的应用安装包、产品介绍和界面预览，不包含产品源码、开发分支、构建脚本或内部文档。
 
