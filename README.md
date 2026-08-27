@@ -9,11 +9,21 @@
 <p align="center">
   <a href="https://github.com/240344520/xinghuoai-desktop-agent-canvas/releases/latest"><img src="https://img.shields.io/badge/下载-最新版-orange.svg" alt="下载最新版" /></a>
   <img src="https://img.shields.io/badge/platform-macOS-black.svg" alt="macOS" />
+  <img src="https://img.shields.io/badge/核心体验-免费本地使用-orange.svg" alt="免费本地使用" />
 </p>
 
 <p align="center">
   <img src="images/canvas-detail.png" alt="薪火 AI 的多媒体创作画布" />
 </p>
+
+## 为什么值得下载
+
+- **免费、本地优先**：薪火 AI 可免费下载和本地使用。画布、资产管理、媒体预览与本地编辑围绕你的 Mac 工作，不把你的创作素材锁进单一网页产品。
+- **模型不绑定**：可接入主流云端模型 API 与 OpenAI 兼容接口，也支持本地模型（如 Ollama）。你可按任务自由选择模型与服务商，而不是被单一模型生态限制。
+- **一张无限画布，处理多种创作素材**：把图片、视频、音频、文本、提示词、参数与结果放在同一张可自由缩放、平移的画布上，让创作过程可见、可整理、可继续。
+- **AI Agent 协作与可扩展工作流**：Agent 可理解当前画布上下文；通过 MCP 连接工具，通过 Skills 扩展可复用的创作方法，组合成适合自己的工作流。
+
+> 云端模型、外部 MCP 服务和部分扩展能力使用你自己的服务商账户与访问凭据，实际费用、可用模型和额度以对应服务商为准。
 
 ## 为谁而做
 
