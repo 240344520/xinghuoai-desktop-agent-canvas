@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 下载最新版
+    url: https://github.com/240344520/xinghuoai-desktop-agent-canvas/releases/latest
+    about: 请先确认是否已安装最新版本。

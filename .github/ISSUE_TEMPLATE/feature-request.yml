@@ -1,0 +1,30 @@
+name: 功能建议
+description: 提交薪火 AI 桌面版的功能或体验改进建议
+title: "[建议]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请描述你希望完成的创作任务和当前阻碍，不要提交 API Key、Token 或个人敏感资料。
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景与目标
+      placeholder: 你在什么场景下，希望通过薪火 AI 完成什么？
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 当前问题
+      placeholder: 现在的操作为什么无法满足这个需求？
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议的体验
+      placeholder: 你希望应用如何工作？
+    validations:
+      required: true
